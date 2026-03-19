@@ -1,0 +1,328 @@
+﻿disaster_subtype,event_name,start_date,end_date,affected_states,magnitude_kph,total_damage_adjusted
+Tornado,2000_jan_storm1,2000/1/2,2000/1/4,Kentucky,,382547
+Storm (General),2000_jan_storm2,2000/1/22,2000/1/25,"Alabama, Georgia, Louisiana, Massachusetts, New York, North Carolina, Pennsylvania, South Carolina, Tennessee, Virginia",,637579
+Tropical cyclone,Leslie,2000/10/4,2000/10/4,Florida,,398942
+Storm (General),2000_dec_storm1,2000/12/16,2000/12/17,"Alabama, Connecticut, Florida, Georgia, Massachusetts, Mississippi, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island",,910827
+Tornado,2000_mar_storm1,2000/3/28,2000/3/28,Texas,,819745
+Tornado,2000_may_storm1,2000/5/26,2000/5/26,"Iowa, Wisconsin",,51917
+Tornado,2000_jul_storm1,2000/7/25,2000/7/25,Minnesota,,14755
+Tornado,2000_sep_storm1,2000/9/20,2000/9/20,Ohio,,163949
+Tornado,2001_oct_storm1,2001/10/11,2001/10/11,Texas,,7086
+Tornado,2001_oct_storm2,2001/10/12,2001/10/12,Texas,,12401
+Tornado,2001_feb_storm1,2001/2/24,2001/2/24,Mississippi,,442897
+Tornado,2001_mar_storm1,2001/3/29,2001/3/29,Florida,,3189
+Tornado,2001_apr_storm1,2001/4/10,2001/4/11,"Illinois, Iowa, Kansas, Missouri, Nebraska, Oklahoma, Texas, Washington",,40746
+Tornado,2001_jun_storm1,2001/6/18,2001/6/18,Wisconsin,,17716
+Tropical cyclone,Allison,2001/6/5,2001/6/17,"Florida, Georgia, Iowa, Louisiana, Mississippi, New Jersey, North Carolina, Pennsylvania, South Carolina, Texas, Virginia",,10629520
+Tornado,2001_aug_storm1,2001/8/17,2001/8/17,Nebraska,,5315
+Tornado,2001_sep_storm1,2001/9/24,2001/9/24,Maryland,,53148
+Storm (General),2002_jan_storm1,2002/1/30,2002/2/8,"Indiana, Kansas, Missouri, New York, Ohio, Oklahoma, Texas, Washington",,697571
+Tropical cyclone,Lili,2002/10/3,2002/10/3,Louisiana,,3487855
+Tornado,2002_nov_storm1,2002/11/5,2002/11/10,"Alabama, Arkansas, Georgia, Indiana, Kentucky, Mississippi, Ohio, Pennsylvania, South Carolina, Tennessee",200,1220749
+Blizzard/Winter storm,2002_dec_storm1,2002/12/4,2002/12/5,"Kentucky, Maryland, Missouri, New Jersey, New York, North Carolina, Pennsylvania, South Carolina, Tennessee, Virginia, Washington",,785639
+Storm (General),2002_mar_storm1,2002/3/19,2002/3/19,"Arkansas, Kentucky, Mississippi, North Carolina, Tennessee, Texas, Virginia, Washington, West Virginia",,349657
+Tornado,2002_apr_storm1,2002/4/21,2002/4/21,Illinois,,6976
+Tornado,2002_apr_storm2,2002/4/27,2002/5/3,"Georgia, Illinois, Indiana, Kansas, Kentucky, Maryland, Mississippi, Missouri, New York, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia",290,3836640
+Tropical cyclone,Isidore,2002/9/26,2002/9/27,"Alabama, Louisiana, Mississippi, Tennessee",105,523178
+Tornado,2002_sep_storm1,2002/9/5,2002/9/5,Wisconsin,,34879
+Blizzard/Winter storm,2003_feb_storm1,2003/2/14,2003/2/18,"Connecticut, Delaware, Illinois, Iowa, Kentucky, Maryland, Massachusetts, Missouri, Nebraska, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, Tennessee, Vermont, Virginia, West Virginia",,341043
+Storm (General),2003_feb_storm2,2003/2/15,2003/2/23,"Alabama, Connecticut, Delaware, Florida, Georgia, Kentucky, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont, Virginia, West Virginia",,682087
+Tornado,2003_mar_storm1,2003/3/18,2003/3/20,"Alabama, Georgia, North Carolina, South Carolina, Tennessee",,8526086
+Blizzard/Winter storm,2003_mar_storm2,2003/3/20,2003/3/20,"Colorado, Wyoming",,42630
+Storm (General),2003_apr_storm1,2003/4/4,2003/4/8,"Alabama, Illinois, Indiana, Louisiana, Michigan, Mississippi, Missouri, Nebraska, New York, Pennsylvania, Tennessee, Texas, Wisconsin",,3580956
+Tornado,2003_may_storm1,2003/5/4,2003/5/10,"Alabama, Arkansas, Colorado, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Mississippi, Missouri, Nebraska, North Carolina, South Carolina, South Dakota, Tennessee, Texas, Washington",,6820869
+Tropical cyclone,Bill,2003/6/30,2003/6/30,"Alabama, Florida, Georgia, Louisiana, Mississippi, North Carolina",95,85261
+Tropical cyclone,Isabel,2003/9/18,2003/9/22,"Delaware, Maryland, New Jersey, North Carolina, Pennsylvania, Virginia, West Virginia",170,5746582
+Blizzard/Winter storm,2004_jan_storm1,2004/1/15,2004/1/29,"Georgia, Illinois, Indiana, Iowa, Kansas, Maine, Maryland, Minnesota, Missouri, Nebraska, New Jersey, New York, North Carolina, Ohio, Oklahoma, Pennsylvania, South Carolina, Virginia, West Virginia",,99645
+Tornado,2004_mar_storm1,2004/3/4,2004/3/7,"Arkansas, Kansas, Louisiana, Mississippi, Missouri, North Carolina, Oklahoma, South Carolina, Texas, Virginia",,498226
+Hail,2004_may_storm1,2004/5/21,2004/5/27,"Delaware, Illinois, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Missouri, Nebraska, New York, North Carolina, Ohio, Oklahoma, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, Washington, West Virginia, Wisconsin",,1826830
+Lightning/Thunderstorms,2004_may_storm2,2004/5/29,2004/6/2,"Alabama, Arkansas, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Mississippi, Missouri, Nebraska, Nevada, Ohio, Oklahoma, South Dakota, Tennessee, Texas, Virginia, Washington, West Virginia, Wyoming",,1162528
+Lightning/Thunderstorms,2004_jun_storm1,2004/6/28,2004/6/28,"Colorado, Georgia, Louisiana, Mississippi, South Carolina, Texas, Washington",,282
+Tropical cyclone,Charley,2004/8/13,2004/8/13,"Florida, North Carolina, South Carolina, Washington",230,26572079
+Tropical cyclone,Gaston,2004/8/29,2004/8/30,"North Carolina, South Carolina, Virginia",,103797
+Tropical cyclone,Ivan,2004/9/15,2004/9/16,"Alabama, Florida, Georgia, Louisiana, Maryland, Mississippi, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia",,29893589
+Tropical cyclone,Jeanne,2004/9/25,2004/9/26,Florida,,13286040
+Tropical cyclone,Frances,2004/9/5,2004/9/5,"Florida, North Carolina, Ohio, South Carolina",,18268304
+Tornado,2004_sep_storm1,2004/9/8,2004/9/8,Virginia,,3488
+Blizzard/Winter storm,2005_jan_storm1,2005/1/22,2005/1/24,"Connecticut, Iowa, Maryland, Massachusetts, New York, Ohio, Wisconsin",,562190
+Tropical cyclone,Wilma,2005/10/24,2005/10/24,Florida,165,22969497
+Lightning/Thunderstorms,2005_apr_storm1,2005/4/6,2005/4/8,Mississippi,,562190
+Tropical cyclone,Dennis,2005/7/10,2005/7/10,"Florida, Georgia",,3581957
+Tropical cyclone,Katrina,2005/8/29,2005/9/19,"Alabama, Florida, Georgia, Louisiana, Mississippi",280,200782317
+Tropical cyclone,Rita,2005/9/23,2005/10/1,"Louisiana, Mississippi, Texas",280,25700137
+Blizzard/Winter storm,2006_oct_storm1,2006/10/12,2006/10/14,New York,,466818
+Tornado,2006_nov_storm1,2006/11/15,2006/11/16,"Alabama, Arizona, Arkansas, Louisiana, Maryland, Mississippi, North Carolina, Pennsylvania, South Dakota, Texas",,147826
+Tornado,2006_dec_storm1,2006/12/25,2006/12/25,Florida,193,140045
+Blizzard/Winter storm,2006_dec_storm2,2006/12/27,2006/12/31,Kansas,,560182
+Tornado,2006_mar_storm1,2006/3/11,2006/3/13,"Arkansas, Illinois, Indiana, Kansas, Missouri, Oklahoma",202,1867273
+Hail,2006_apr_storm1,2006/4/2,2006/4/3,"Arkansas, Illinois, Indiana, Iowa, Kentucky, Missouri, Oklahoma, Tennessee",,933637
+Hail,2006_apr_storm2,2006/4/6,2006/4/8,"Alabama, Georgia, Indiana, Kansas, Kentucky, Ohio, Tennessee",,2489698
+Lightning/Thunderstorms,2006_may_storm1,2006/5/1,2006/5/7,Texas,,700227
+Tropical cyclone,Ernesto,2006/8/2,2006/9/7,"North Carolina, South Carolina, Virginia",119,51132
+Storm (General),2007_jan_storm1,2007/1/12,2007/1/17,"California, Georgia, Illinois, Iowa, Kansas, Maine, Michigan, Missouri, New York, Oklahoma, South Carolina, Texas",,756451
+Storm (General),2007_dec_storm1,2007/12/3,2007/12/7,"Oregon, Washington",160,1512903
+Storm (General),2007_dec_storm2,2007/12/9,2007/12/11,"Connecticut, Illinois, Iowa, Kansas, Michigan, Missouri, Nebraska, New Jersey, New York, Oklahoma, Pennsylvania, Rhode Island",,756451
+Blizzard/Winter storm,2007_feb_storm2,2007/2/14,2007/2/15,"New Jersey, New York, Ohio, Pennsylvania, Vermont",64,211806
+Tornado,2007_feb_storm1,2007/2/2,2007/2/2,Florida,265,196677
+Storm (General),2007_feb_storm3,2007/2/23,2007/2/25,"Arkansas, Iowa, Texas",,453871
+Tornado,2007_mar_storm1,2007/3/1,2007/3/2,"Alabama, Georgia, Minnesota, Missouri",,907742
+Storm (General),2007_apr_storm1,2007/4/13,2007/4/17,"Connecticut, Delaware, Georgia, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Texas, Vermont, Virginia",,3025805
+Storm (General),2007_may_storm2,2007/5/21,2007/5/25,"Iowa, Kansas, Minnesota, Texas, Wisconsin",128,453871
+Tornado,2007_may_storm1,2007/5/4,2007/5/8,"Colorado, Iowa, Kansas, Minnesota, Missouri, Nebraska, Oklahoma, South Dakota",,529516
+Tropical cyclone,Erin,2007/8/16,2007/8/19,"Missouri, Oklahoma, Texas",132,375200
+Tornado,2008_jan_storm2,2008/1/29,2008/1/30,"Alabama, Arkansas, Illinois, Indiana, Kentucky, Mississippi, Missouri, New York, Ohio, Tennessee",,874181
+Extra-tropical storm,2008_jan_storm1,2008/1/4,2008/1/9,"Arkansas, California, Colorado, Illinois, Indiana, Kansas, Michigan, Missouri, New York, Ohio, Oklahoma, Oregon, Washington, Wisconsin",175,1456968
+Blizzard/Winter storm,2008_dec_storm1,2008/12/11,2008/12/22,"Maine, Massachusetts, New Hampshire, New York, Vermont",,524509
+Tornado,2008_feb_storm1,2008/2/5,2008/2/6,"Alabama, Arkansas, Illinois, Indiana, Kentucky, Mississippi, Missouri, Ohio, Tennessee, Texas",,1894059
+Tornado,2008_mar_storm1,2008/3/14,2008/3/14,Georgia,217,655636
+Tornado,2008_apr_storm2,2008/4/28,2008/4/28,Virginia,240,160267
+Tornado,2008_apr_storm1,2008/4/9,2008/4/11,"Arkansas, Oklahoma, Texas",,1602665
+Tornado,2008_may_storm1,2008/5/10,2008/5/12,"Arkansas, Georgia, Kansas, Maryland, Missouri, North Carolina, Oklahoma, Texas, Virginia",280,1019878
+Tornado,2008_may_storm2,2008/5/22,2008/5/26,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Montana, Nebraska, Wisconsin",,2331149
+Tropical cyclone,Dolly,2008/7/23,2008/7/23,"Florida, Texas",160,1748362
+Tropical cyclone,Fay,2008/8/20,2008/8/28,"Alabama, Florida, Georgia, Mississippi",100,262254
+Tropical cyclone,Hannah,2008/8/28,2008/8/28,"Florida, Maryland, North Carolina",,233115
+Tropical cyclone,Gustav,2008/9/1,2008/9/1,"Alabama, Louisiana, Mississippi, Texas",,10198778
+Tropical cyclone,Ike,2008/9/12,2008/9/16,"Arkansas, Illinois, Indiana, Kentucky, Louisiana, Michigan, Missouri, Ohio, Pennsylvania, Tennessee, Texas",200,43709050
+Tropical cyclone,Ida_1,2009/11/9,2009/11/10,"Delaware, New Jersey, New York, North Carolina, Pennsylvania, Virginia",,877300
+Tornado,2009_feb_storm1,2009/2/10,2009/2/13,"Kentucky, Maryland, Ohio, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, Washington, West Virginia",146,3655417
+Lightning/Thunderstorms,2009_mar_storm1,2009/3/26,2009/3/28,"Louisiana, Missouri, Texas",,2193250
+Severe weather,2009_apr_storm2,2009/4/16,2009/4/18,Texas,,350920
+Tornado,2009_apr_storm1,2009/4/9,2009/4/10,"Alabama, Arkansas, Georgia, Kentucky, Louisiana, Missouri, Oklahoma, South Carolina, Tennessee, Texas",,2485684
+Tornado,2009_may_storm1,2009/5/7,2009/5/9,"Illinois, Missouri",,1242842
+Tornado,2009_jun_storm1,2009/6/10,2009/6/18,"Alabama, Arkansas, Kansas, Kentucky, Mississippi, Missouri, Nebraska, North Carolina, Oklahoma, Pennsylvania, South Carolina, Tennessee, Texas",128,2924334
+Severe weather,2009_jul_storm1,2009/7/20,2009/7/21,Colorado,,1462167
+Blizzard/Winter storm,2010_feb_storm2,2010/2/23,2010/2/28,"Connecticut, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia",151,719287
+Blizzard/Winter storm,2010_feb_storm1,2010/2/5,2010/2/11,"Delaware, Maryland, New Jersey, North Carolina, Pennsylvania, Virginia",,2877148
+Storm (General),2010_mar_storm1,2010/3/13,2010/3/15,"Connecticut, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island",,2157861
+Severe weather,2010_apr_storm1,2010/4/30,2010/5/3,"Alabama, Arkansas, Kentucky, Mississippi, Tennessee",320,3380648
+Tornado,2010_may_storm1,2010/5/12,2010/5/16,Oklahoma,,3884149
+Tropical cyclone,Earl,2010/9/3,2010/9/3,"Maryland, Massachusetts, North Carolina, Rhode Island, Virginia",,143857
+Tropical cyclone,Hermine_1,2010/9/7,2010/9/11,Texas,,345258
+Blizzard/Winter storm,2011_jan_storm1,2011/1/31,2011/2/2,"Alabama, Arkansas, Colorado, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Minnesota, Mississippi, Missouri, New Jersey, New York, North Carolina, Oklahoma, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, West Virginia, Wisconsin, Wyoming",,2649645
+Blizzard/Winter storm,2011_oct_storm1,2011/10/29,2011/10/31,"Connecticut, Massachusetts, New Jersey, New York",,4183650
+Tornado,2011_apr_storm2,2011/4/14,2011/4/16,"Alabama, Kansas, Mississippi, North Carolina, Oklahoma, Texas",260,2789100
+Tornado,2011_apr_storm3,2011/4/22,2011/4/29,"Alabama, Arkansas, Kentucky, Mississippi, Missouri, Oklahoma, Tennessee",,15340049
+Storm (General),2011_apr_storm1,2011/4/3,2011/4/5,"Alabama, Arkansas, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Virginia, West Virginia, Wisconsin, Wyoming",,4880925
+Tornado,2011_may_storm1,2011/5/20,2011/5/25,Missouri,320,19523699
+Tropical cyclone,Irene,2011/8/27,2011/9/13,"Connecticut, Florida, Maryland, New Jersey, New York, North Carolina, Pennsylvania, Virginia",,10180214
+Tropical cyclone,Lee,2011/9/4,2011/9/9,"Alabama, Georgia, Louisiana, Maryland, Mississippi, New York, Pennsylvania, Tennessee, Texas, Virginia",75,1045912
+Blizzard/Winter storm,2012_jan_storm1,2012/1/18,2012/1/23,"Oregon, Washington",,136628
+Tornado,2012_jan_storm2,2012/1/22,2012/1/23,Alabama,240,239099
+Tropical cyclone,Sandy,2012/10/28,2012/10/28,"Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, Vermont, Virginia, West Virginia",,68313858
+Blizzard/Winter storm,2012_dec_storm1,2012/12/19,2012/12/21,"Iowa, Kansas, Nebraska, Wisconsin",100,2733
+Blizzard/Winter storm,2012_dec_storm2,2012/12/25,2012/12/27,"Alabama, Arkansas, Indiana, Louisiana, Mississippi, New Jersey, New York, Pennsylvania, Texas, Virginia",,136628
+Tornado,2012_feb_storm1,2012/2/28,2012/2/29,"Illinois, Indiana, Kansas, Kentucky, Missouri, Nebraska",270,683139
+Tornado,2012_mar_storm1,2012/3/2,2012/3/4,"Alabama, Florida, Georgia, Illinois, Indiana, Kentucky, Mississippi, North Carolina, Ohio, Tennessee, Virginia",112,6831386
+Tornado,2012_apr_storm2,2012/4/14,2012/4/15,"Iowa, Kansas, Minnesota, Nebraska, Oklahoma, South Dakota",,2459299
+Tornado,2012_apr_storm1,2012/4/2,2012/4/3,Texas,,2117730
+Severe weather,2012_apr_storm3,2012/4/28,2012/4/29,"Illinois, Indiana, Kentucky, Missouri, Texas",,6148247
+Lightning/Thunderstorms,2012_may_storm1,2012/5/25,2012/5/30,"Kansas, Minnesota, New York, Oklahoma, Pennsylvania, Texas",,4645342
+Lightning/Thunderstorms,2012_jun_storm2,2012/6/11,2012/6/13,"New Mexico, Texas",,2595927
+Tropical cyclone,Debby_1,2012/6/22,2012/6/27,Washington,,286918
+Severe weather,2012_jun_storm3,2012/6/28,2012/7/2,"Illinois, Indiana, Kentucky, Maryland, New Jersey, North Carolina, Ohio, South Carolina, Virginia, West Virginia",146,5465109
+Lightning/Thunderstorms,2012_jun_storm1,2012/6/6,2012/6/7,"Colorado, Wyoming",,1912788
+Lightning/Thunderstorms,2012_jul_storm1,2012/7/2,2012/7/4,"Michigan, Minnesota, Ohio, Pennsylvania, Wisconsin",,956394
+Tropical cyclone,Isaac,2012/8/28,2012/8/29,"Louisiana, Mississippi",,2732554
+Lightning/Thunderstorms,2012_sep_storm1,2012/9/7,2012/9/9,"Arkansas, Maryland, Missouri, New York, Oklahoma, Pennsylvania, Virginia",95,286918
+Tornado,2013_jan_storm1,2013/1/29,2013/1/30,"Alabama, Arkansas, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Virginia, West Virginia, Wisconsin, Wyoming",,403966
+Tornado,2013_nov_storm1,2013/11/16,2013/11/18,"Illinois, Indiana, Kentucky, Michigan, Missouri, Ohio, Wisconsin",305,1750518
+Blizzard/Winter storm,2013_nov_storm2,2013/11/24,2013/11/24,"Arizona, California, New Mexico, Oklahoma, Texas",,2693
+Blizzard/Winter storm,Cleon and Dion,2013/12/1,2013/12/9,"Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oklahoma, Pennsylvania, Rhode Island, South Carolina, Tennessee, Texas, Vermont, Virginia, West Virginia",,134655
+Blizzard/Winter storm,2013_feb_storm3,2013/2/24,2013/2/25,"Louisiana, Oklahoma, Texas",,1481208
+Blizzard/Winter storm,2013_feb_storm1,2013/2/8,2013/2/9,"Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont",,134655
+Blizzard/Winter storm,2013_feb_storm2,2013/2/9,2013/2/11,"Alabama, Arkansas, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, Nebraska, North Carolina, North Dakota, Ohio, South Carolina, South Dakota, Tennessee, Virginia, West Virginia, Wisconsin",,134655
+Severe weather,2013_mar_storm1,2013/3/18,2013/3/19,"Louisiana, Mississippi, South Carolina",,2962415
+Severe weather,2013_apr_storm2,2013/4/17,2013/4/19,"Colorado, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, North Dakota, Ohio, Oklahoma, South Dakota, Texas, Wisconsin, Wyoming",,1481208
+Severe weather,2013_apr_storm1,2013/4/7,2013/4/11,"Alabama, Arkansas, California, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Virginia, West Virginia, Wisconsin, Wyoming",,2154484
+Tornado,2013_may_storm1,2013/5/15,2013/5/17,"Alabama, Arkansas, Colorado, Delaware, Florida, Georgia, Kansas, Kentucky, Louisiana, Maryland, Mississippi, Montana, Nebraska, New Mexico, North Carolina, North Dakota, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Virginia, West Virginia, Wyoming",285,403966
+Tornado,2013_may_storm2,2013/5/18,2013/5/22,"Alabama, Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Vermont, Virginia, West Virginia, Wisconsin, Wyoming",,4174312
+Tornado,2013_may_storm3,2013/5/26,2013/6/6,"Colorado, Connecticut, Illinois, Indiana, Iowa, Kansas, Maine, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Dakota, Texas, Vermont, Wisconsin, Wyoming",,2827760
+Lightning/Thunderstorms,2013_jun_storm1,2013/6/12,2013/6/13,"Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Vermont, Virginia, West Virginia, Wisconsin",,1211897
+Lightning/Thunderstorms,2013_aug_storm1,2013/8/2,2013/8/3,"Colorado, Montana, Wyoming",,403966
+Blizzard/Winter storm,2014_jan_storm1,2014/1/1,2014/1/5,"Connecticut, Illinois, Indiana, Iowa, Kansas, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Nebraska, New Hampshire, New Jersey, New York, North Dakota, Ohio, Pennsylvania, Rhode Island, South Dakota, Vermont, Wisconsin",,278262
+Blizzard/Winter storm,2014_jan_storm2,2014/1/26,2014/1/29,"Alabama, Georgia, Louisiana, Mississippi, North Carolina, South Carolina",,331264
+Lightning/Thunderstorms,2014_oct_storm1,2014/10/12,2014/10/14,"Alabama, Arkansas, Illinois, Kentucky, Louisiana, Mississippi, Texas",160,225260
+Blizzard/Winter storm,2014_nov_storm1,2014/11/15,2014/11/19,"Michigan, New Hampshire, New York",,132506
+Blizzard/Winter storm,2014_feb_storm2,2014/2/11,2014/2/14,"Georgia, Maryland, New York, North Carolina, Pennsylvania, South Carolina, Virginia",,993793
+Blizzard/Winter storm,2014_feb_storm1,2014/2/2,2014/2/6,"Colorado, Connecticut, Illinois, Indiana, Iowa, Kansas, Maine, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Dakota, Texas, Vermont, Wisconsin, Wyoming",,331264
+Blizzard/Winter storm,2014_feb_storm3,2014/2/28,2014/3/4,"California, Colorado, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Montana, Nebraska, New Jersey, New Mexico, New York, North Dakota, Ohio, Oklahoma, Pennsylvania, South Dakota, Tennessee, Texas, Wisconsin, Wyoming",,2650
+Severe weather,2014_apr_storm1,2014/4/27,2014/5/1,"Alabama, Arkansas, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Virginia, West Virginia, Wisconsin, Wyoming",,2650114
+Lightning/Thunderstorms,2014_may_storm1,2014/5/18,2014/5/23,"Arizona, Colorado, Connecticut, Idaho, Illinois, Indiana, Iowa, Kansas, Maine, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Dakota, Texas, Utah, Vermont, Wisconsin, Wyoming",110,5167722
+Lightning/Thunderstorms,2014_jun_storm1,2014/6/3,2014/6/6,"Arkansas, Iowa, Kansas, Nebraska, Washington, Wyoming",128,2120091
+Lightning/Thunderstorms,2014_jul_storm1,2014/7/26,2014/7/27,"Colorado, Connecticut, Illinois, Indiana, Iowa, Kansas, Maine, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Dakota, Tennessee, Texas, Vermont, Wisconsin, Wyoming",60,357765
+Tropical cyclone,Iselle,2014/8/8,2014/8/10,Hawaii,95,87454
+Blizzard/Winter storm,2015_jan_storm2,2015/1/26,2015/1/28,"Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Rhode Island",104,105879
+Blizzard/Winter storm,2015_jan_storm3,2015/1/31,2015/2/4,"Connecticut, Illinois, Indiana, Massachusetts, Michigan, New York",,198523
+Blizzard/Winter storm,2015_jan_storm1,2015/1/6,2015/1/11,"Illinois, Pennsylvania, Wisconsin",,132349
+Tropical cyclone,Joaquin,2015/10/1,2015/10/13,"North Carolina, South Carolina",,2646974
+Lightning/Thunderstorms,2015_oct_storm1,2015/10/29,2015/11/3,"Louisiana, Texas",,357341
+Blizzard/Winter storm,2015_nov_storm1,2015/11/25,2015/12/4,"Kansas, Oklahoma, Texas",,185288
+Tornado,2015_dec_storm1,2015/12/26,2015/12/30,"Alabama, Arkansas, Georgia, Illinois, Indiana, Kentucky, Mississippi, Missouri, New Mexico, Oklahoma, Tennessee, Texas",,2646974
+Blizzard/Winter storm,2015_feb_storm1,2015/2/16,2015/2/22,"Illinois, Kentucky, Maine, Maryland, Massachusetts, Michigan, New Hampshire, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont, Virginia",,3970461
+Blizzard/Winter storm,Octavia,2015/2/16,2015/2/22,"Georgia, Kansas, Maryland, North Carolina, Ohio, South Carolina, Tennessee, Virginia",,132349
+Tornado,2015_mar_storm2,2015/3/25,2015/3/26,"Arkansas, Kansas, Missouri, Oklahoma",110,661744
+Blizzard/Winter storm,2015_mar_storm1,2015/3/3,2015/3/5,"Arkansas, Kentucky, New York, Pennsylvania, Virginia, West Virginia",,224993
+Tornado,2015_apr_storm2,2015/4/24,2015/4/28,"Alabama, Florida, Georgia, Kentucky, Louisiana, Mississippi, Texas",,1257313
+Tornado,2015_apr_storm1,2015/4/7,2015/4/10,"Arkansas, Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Missouri, North Carolina, Ohio, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, West Virginia, Wisconsin",,1852882
+Tornado,2015_may_storm1,2015/5/3,2015/5/5,"Iowa, Kansas, Minnesota, Nebraska, Oklahoma, Texas, Wisconsin",,211758
+Lightning/Thunderstorms,2015_may_storm3,2015/5/6,2015/5/13,"Colorado, Kansas, Minnesota, Missouri, Nebraska, Oklahoma, South Dakota, Texas",130,1852882
+Tornado,2015_may_storm2,2015/5/6,2015/5/13,"Arkansas, Colorado, Iowa, Kansas, Oklahoma, South Dakota, Texas",,1323487
+Lightning/Thunderstorms,2015_jun_storm1,2015/6/3,2015/6/8,"Colorado, Illinois",,860267
+Severe weather,2015_jul_storm1,2015/7/12,2015/7/14,"Illinois, Indiana, Iowa, Kentucky, Minnesota, Missouri, North Carolina, Ohio, South Carolina, Tennessee, Wisconsin",,926441
+Severe weather,2015_aug_storm1,2015/8/2,2015/8/4,"Connecticut, Illinois, Indiana, Maine, Massachusetts, Michigan, New Hampshire, New York, Ohio, Rhode Island, Wisconsin",95,1257313
+Blizzard/Winter storm,Jonas,2016/1/23,2016/1/26,"Delaware, Georgia, Kentucky, Maryland, New Jersey, New York, North Carolina, Pennsylvania, Tennessee, Virginia, Washington, West Virginia",,718849
+Severe weather,2016_jan_storm1,2016/1/4,2016/1/8,California,,163375
+Tropical cyclone,Matthew,2016/10/8,2016/10/12,"Florida, Georgia, North Carolina, South Carolina, Virginia",,13069979
+Blizzard/Winter storm,2016_nov_storm1,2016/11/26,2016/12/1,"Alabama, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee",,359424
+Blizzard/Winter storm,2016_dec_storm1,2016/12/13,2016/12/19,"Indiana, Maryland, Michigan, Missouri, New Mexico, Ohio, Oklahoma, Virginia",,130700
+Blizzard/Winter storm,2016_feb_storm1,2016/2/22,2016/2/25,"Alabama, Connecticut, Florida, Georgia, Louisiana, Maryland, Massachusetts, Mississippi, New Jersey, New York, North Carolina, Pennsylvania, South Carolina, Texas, Virginia",,1568397
+Severe weather,2016_mar_storm2,2016/3/17,2016/3/18,"Florida, Louisiana, Mississippi, Texas",,1568397
+Severe weather,2016_mar_storm3,2016/3/22,2016/3/25,"Alabama, Arkansas, Florida, Louisiana, Mississippi, Oklahoma, Texas",,3006095
+Severe weather,2016_mar_storm1,2016/3/4,2016/3/12,"Alabama, Arkansas, California, Kentucky, Louisiana, Mississippi, Ohio, Oklahoma, Tennessee, Texas",,2091197
+Lightning/Thunderstorms,2016_apr_storm1,2016/4/10,2016/4/15,"Arkansas, Kansas, Louisiana, Mississippi, Missouri, Oklahoma, Texas",,5097292
+Lightning/Thunderstorms,2016_apr_storm2,2016/4/25,2016/5/4,"Arkansas, Georgia, Illinois, Kansas, Louisiana, Mississippi, Missouri, North Carolina, Oklahoma, Texas, Virginia, West Virginia",,3136795
+Hail,2016_may_storm2,2016/5/21,2016/5/28,"Colorado, Kansas, Missouri, Montana, Texas, Washington",,1437698
+Tornado,2016_may_storm1,2016/5/8,2016/5/11,"Arkansas, Colorado, Illinois, Iowa, Kansas, Kentucky, Missouri, Nebraska, Oklahoma, Tennessee, Texas",,2221896
+Storm (General),2016_jun_storm1,2016/6/22,2016/6/24,"Illinois, Indiana, Ohio, Virginia, West Virginia, Wisconsin",,1306998
+Tropical cyclone,Hermine_2,2016/9/1,2016/9/6,"Florida, Georgia, New Jersey, New York, North Carolina, South Carolina, Virginia",85,784199
+Severe weather,2017_jan_storm2,2017/1/18,2017/1/23,"Alabama, Florida, Georgia, Louisiana, Mississippi",,1407712
+Blizzard/Winter storm,2017_jan_storm1,2017/1/6,2017/1/13,"California, Colorado, Idaho, Nevada, Oregon, Utah",,511895
+Tropical cyclone,Nate,2017/10/7,2017/10/8,"Alabama, Florida, Louisiana, Mississippi, North Carolina, South Carolina",140,319934
+Lightning/Thunderstorms,2017_nov_storm1,2017/11/5,2017/11/6,"Delaware, Illinois, Indiana, Missouri, Ohio, Pennsylvania, Washington",,332732
+Blizzard/Winter storm,2017_dec_storm1,2017/12/31,2018/1/5,"Georgia, Maryland, Massachusetts, Michigan, Mississippi, Missouri, New Jersey, New York, North Carolina, Texas, Virginia",,1407712
+Tornado,2017_feb_storm2,2017/2/27,2017/3/2,"Alabama, Arkansas, Georgia, Illinois, Indiana, Iowa, Kentucky, Michigan, Missouri, North Carolina, Ohio, South Carolina, Tennessee, Virginia, West Virginia",,2431502
+Storm (General),2017_feb_storm1,2017/2/8,2017/2/21,California,,1919607
+Blizzard/Winter storm,2017_mar_storm2,2017/3/13,2017/3/15,"Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, Tennessee, Virginia",,1279738
+Tornado,2017_mar_storm3,2017/3/25,2017/3/28,"Alabama, Georgia, Indiana, Kansas, Kentucky, Mississippi, Oklahoma, Tennessee, Texas",175,3455292
+Hail,2017_mar_storm1,2017/3/6,2017/3/9,"Arkansas, Illinois, Indiana, Iowa, Kansas, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Nebraska, New York, Ohio, Oklahoma, Pennsylvania, Wisconsin",130,2815423
+Hail,2017_may_storm1,2017/5/9,2017/5/11,"Colorado, Missouri, New Mexico, Oklahoma, Texas",130,3967187
+Lightning/Thunderstorms,2017_jun_storm2,2017/6/25,2017/6/29,"Arkansas, Colorado, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Minnesota, Missouri, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Virginia",170,1791633
+Lightning/Thunderstorms,2017_jun_storm1,2017/6/9,2017/6/12,"Michigan, Minnesota, North Dakota, South Dakota, Wisconsin",135,2559476
+Tropical cyclone,Harvey,2017/8/25,2017/8/29,"Colorado, Louisiana, Texas, Washington",215,121575099
+Tornado,2017_aug_storm1,2017/8/5,2017/8/8,"Kansas, Louisiana, Missouri, Oklahoma, Texas",,255948
+Tropical cyclone,Irma,2017/9/10,2017/9/28,"Florida, Georgia, South Carolina",300,72945059
+Blizzard/Winter storm,2018_jan_storm2,2018/1/21,2018/1/24,"Colorado, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, Oklahoma, South Dakota",,62461
+Blizzard/Winter storm,2018_jan_storm1,2018/1/3,2018/1/5,"Connecticut, Georgia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Tennessee, Virginia",,1249226
+Tropical cyclone,Michael,2018/10/10,2018/10/11,"Alabama, Florida, Georgia, Maryland, North Carolina, Virginia",250,19987609
+Blizzard/Winter storm,2018_dec_storm1,2018/12/26,2018/12/28,"Iowa, Kansas, Louisiana, Minnesota, New Mexico, Tennessee, Texas",,187384
+Blizzard/Winter storm,2018_mar_storm1,2018/3/1,2018/3/3,"Connecticut, Delaware, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Virginia",110,2873219
+Storm (General),2018_apr_storm1,2018/4/13,2018/4/15,"Arkansas, Florida, Georgia, Louisiana, Maryland, Michigan, Mississippi, Missouri, New Jersey, New York, North Carolina, Pennsylvania, South Carolina, Texas, Virginia",,1623993
+Storm (General),2018_may_storm1,2018/5/13,2018/5/15,"Colorado, Connecticut, Illinois, Indiana, Iowa, Kansas, Maryland, Massachusetts, Missouri, New Jersey, New York, Oklahoma, Pennsylvania, Texas, Virginia, Washington, West Virginia",110,1811377
+Tropical cyclone,Tropical storm 'Alberto',2018/5/27,2018/5/30,"Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia",,156153
+Tornado,2018_jul_storm1,2018/7/19,2018/7/22,"Alabama, Arkansas, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Maryland, Missouri, North Carolina, Pennsylvania, South Carolina, Tennessee, Virginia",,1873838
+Lightning/Thunderstorms,2018_aug_storm1,2018/8/6,2018/8/7,"Colorado, Nebraska, Wyoming",,1249226
+Tropical cyclone,Hurricane Florence,2018/9/12,2018/9/18,"North Carolina, South Carolina, Virginia",,17489158
+Sand/Dust storm,2019_jan_storm1,2019/1/18,2019/1/21,"Connecticut, Illinois, Indiana, Iowa, Kansas, Maine, Massachusetts, Michigan, Minnesota, Missouri, Nebraska, New Hampshire, New Jersey, New York, North Dakota, Ohio, Pennsylvania, Rhode Island, South Dakota, Vermont, Wisconsin",,122699
+Severe weather,2019_oct_storm1,2019/10/20,2019/10/21,"Arkansas, Louisiana, Missouri, Oklahoma, Tennessee, Texas",220,3190172
+Severe weather,2019_dec_storm1,2019/12/16,2019/12/18,"Alabama, Florida, Georgia, Indiana, Kansas, Louisiana, Mississippi, Missouri, Nebraska",260,288342
+Lightning/Thunderstorms,2019_feb_storm1,2019/2/23,2019/2/25,"Alabama, Connecticut, Illinois, Indiana, Maryland, Massachusetts, Mississippi, New Jersey, New York, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia",,1472387
+Tornado,2019_mar_storm1,2019/3/3,2019/3/4,"Alabama, Florida, Georgia, Mississippi, South Carolina",,233128
+Tornado,2019_apr_storm1,2019/4/13,2019/4/14,"Alabama, Arkansas, Georgia, Louisiana, Mississippi, North Carolina, Ohio, Pennsylvania, Texas",160,1595086
+Tropical cyclone,Barry,2019/7/13,2019/7/15,"Arkansas, Louisiana, Mississippi, Oklahoma",,736194
+Tropical cyclone,Dorian,2019/8/28,2019/9/6,"Florida, Georgia, North Carolina, South Carolina, Virginia",150,1963183
+Tropical cyclone,Imelda,2019/9/17,2019/9/21,Texas,65,4294462
+Severe weather,2020_jan_storm1,2020/1/10,2020/1/12,"Alabama, Arkansas, Georgia, Kentucky, Louisiana, Mississippi, Missouri, Oklahoma, Tennessee, Texas",,1454445
+Tropical cyclone,Zeta,2020/10/24,2020/10/30,"Alabama, Georgia, Louisiana, Mississippi, North Carolina, South Carolina",175,4242132
+Tropical cyclone,Delta,2020/10/7,2020/10/11,"Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Texas",195,3514909
+Lightning/Thunderstorms,2020_nov_storm1,2020/11/10,2020/11/10,"Illinois, Maryland, North Carolina, Virginia, Wisconsin",110,424213
+Tropical cyclone,Eta,2020/11/8,2020/11/12,"Florida, North Carolina, Virginia",100,1818057
+Tornado,2020_mar_storm1,2020/3/2,2020/3/5,"Arkansas, Georgia, Illinois, Indiana, Kentucky, Mississippi, Missouri, Ohio, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, West Virginia",,3030094
+Severe weather,2020_mar_storm2,2020/3/27,2020/3/28,"Arkansas, Illinois, Indiana, Kentucky, Missouri, Ohio, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, West Virginia",,3514909
+Tornado,2020_apr_storm2,2020/4/10,2020/4/14,"Alabama, Arkansas, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Texas",160,4242132
+Tornado,2020_apr_storm3,2020/4/21,2020/4/24,"Alabama, Florida, Georgia, Louisiana, Mississippi, Oklahoma, Texas, Virginia",,1696853
+Tornado,2020_apr_storm1,2020/4/6,2020/4/9,"Arkansas, Illinois, Indiana, Iowa, Kentucky, Michigan, Missouri, Ohio, Tennessee, Wisconsin",,3514909
+Severe weather,2020_may_storm1,2020/5/2,2020/5/3,"Arkansas, Kansas, Missouri, Oklahoma, South Carolina, Tennessee",130,2545279
+Severe weather,2020_may_storm2,2020/5/20,2020/5/23,"Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, North Carolina, Oklahoma, South Carolina, Tennessee, Texas",,1939260
+Hail,2020_may_storm3,2020/5/27,2020/5/27,Texas,,1696853
+Tropical cyclone,Cristobal,2020/6/7,2020/6/7,Louisiana,85,393912
+Tropical cyclone,Hanna,2020/7/25,2020/7/25,Texas,150,1333241
+Tropical cyclone,Isaias,2020/7/31,2020/8/2,"Connecticut, Delaware, Florida, Maryland, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, South Carolina, Virginia",,5817781
+Tropical cyclone,Laura,2020/8/27,2020/8/28,"Arkansas, Louisiana, Mississippi, Texas",240,15756490
+Derecho,2020_aug_storm1,2020/8/8,2020/8/12,"Delaware, Illinois, Indiana, Iowa, Kansas, Maryland, Michigan, Minnesota, Missouri, Nebraska, New Jersey, New York, North Dakota, Ohio, Pennsylvania, South Dakota, Virginia, Washington, West Virginia, Wisconsin",,8241856
+Tropical cyclone,Sally,2020/9/11,2020/9/18,"Alabama, Florida",165,7635838
+Severe weather,2021_jan_storm1,2021/1/13,2021/1/15,"Oregon, Washington",,781416
+Severe weather,2021_jan_storm3,2021/1/24,2021/1/29,California,,1273418
+Tornado,2021_jan_storm2,2021/1/24,2021/1/27,Alabama,,138918
+Blizzard/Winter storm,2021_jan_storm4,2021/1/30,2021/2/2,"Maine, Massachusetts, New Jersey, New York, Pennsylvania, Virginia, Washington",,115765
+Tornado,2021_dec_storm1,2021/12/10,2021/12/11,"Arkansas, Illinois, Kentucky, Michigan, Mississippi, Missouri, Ohio, Tennessee, Wisconsin",310,6019797
+Severe weather,2021_dec_storm2,2021/12/15,2021/12/16,"Colorado, Iowa, Kansas, Minnesota, Missouri, Nebraska, New Mexico, Wisconsin",160,2199541
+Blizzard/Winter storm,2021_feb_storm1,2021/2/10,2021/2/20,"Arkansas, Colorado, Illinois, Kentucky, Louisiana, Mississippi, Missouri, Nebraska, North Carolina, Oklahoma, Oregon, Tennessee, Texas, Washington",,34729595
+Tornado,2021_mar_storm1,2021/3/16,2021/3/18,"Alabama, Louisiana, Mississippi",,578827
+Tornado,2021_mar_storm2,2021/3/24,2021/3/26,"Alabama, Georgia, Kentucky, Mississippi, Tennessee",,1968010
+Severe weather,2021_apr_storm2,2021/4/13,2021/4/15,"Alabama, Florida, Louisiana, Mississippi, Texas",,248895
+Severe weather,2021_apr_storm3,2021/4/15,2021/4/16,Texas,,1736480
+Severe weather,2021_apr_storm4,2021/4/27,2021/5/2,"Oklahoma, Texas",,3588725
+Severe weather,2021_apr_storm1,2021/4/9,2021/4/11,"Alabama, Florida, Louisiana, Mississippi",,1093982
+Severe weather,2021_may_storm2,2021/5/14,2021/5/19,Louisiana,,1504949
+Tornado,2021_may_storm1,2021/5/2,2021/5/4,"Alabama, Arkansas, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Texas, Virginia",,1504949
+Storm (General),Claudette,2021/6/18,2021/6/21,"Alabama, Florida, Louisiana, Mississippi",,434120
+Tropical cyclone,Elsa,2021/7/2,2021/7/9,"California, Florida, Georgia, North Carolina, South Carolina",100,1389184
+Severe weather,2021_jul_storm1,2021/7/8,2021/7/11,"Arizona, Iowa, Missouri, Nebraska, New Mexico, North Dakota, South Dakota, Texas",,1389184
+Lightning/Thunderstorms,2021_aug_storm1,2021/8/10,2021/8/13,"Illinois, Indiana, Michigan, Missouri, Ohio, Wisconsin",,1504949
+Tropical cyclone,Fred,2021/8/17,2021/8/22,"Florida, North Carolina",,1504949
+Tropical cyclone,Henri,2021/8/20,2021/8/25,"Connecticut, New Jersey, New York, Rhode Island, Vermont",120,636709
+Tropical cyclone,Ida_2,2021/8/28,2021/9/2,"Connecticut, Delaware, Louisiana, Maryland, New Jersey, New York, Pennsylvania, Virginia",240,75247457
+Tropical cyclone,Nicholas,2021/9/12,2021/9/17,"Louisiana, Texas",,1157653
+Blizzard/Winter storm,2022_jan_storm1,2022/1/2,2022/1/3,"Georgia, Maryland, Missouri, New Jersey, Tennessee, Virginia, Washington",,562733
+Tropical cyclone,Nicole,2022/11/10,2022/11/11,Florida,120,1071873
+Severe weather,2022_nov_storm1,2022/11/4,2022/11/5,"Arkansas, Oklahoma, Texas",,401952
+Storm (General),2022_dec_storm1,2022/12/12,2022/12/15,"Alabama, Florida, Georgia, Louisiana, Mississippi, Oklahoma, Texas",,369796
+Blizzard/Winter storm,Elliott,2022/12/19,2022/12/29,"Colorado, Connecticut, Georgia, Idaho, Kansas, Kentucky, Maryland, Missouri, New Hampshire, New York, North Carolina, Ohio, Oklahoma, Oregon, South Dakota, Tennessee, Vermont, Virginia, Washington, West Virginia, Wisconsin",120,2894058
+Storm (General),2022_dec_storm2,2022/12/26,2023/3/26,California,,1071873
+Tornado,2022_feb_storm1,2022/2/1,2022/2/5,Alabama,,563805
+Tornado,2022_mar_storm2,2022/3/21,2022/3/23,"Alabama, Louisiana, Mississippi, North Carolina, Ohio, Oklahoma, South Carolina, Texas",,3215620
+Severe weather,2022_mar_storm3,2022/3/29,2022/4/1,"Alabama, Arkansas, Florida, Iowa, Kansas, Kentucky, Louisiana, Mississippi, Missouri, Pennsylvania, Texas, Washington",177,1393435
+Tornado,2022_mar_storm1,2022/3/5,2022/3/7,"Arkansas, Connecticut, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode Island, Vermont",275,878936
+Tornado,2022_apr_storm2,2022/4/11,2022/4/14,"Alabama, Arkansas, Indiana, Iowa, Kentucky, Louisiana, Minnesota, Mississippi, Oklahoma, Tennessee, Texas",265,3001245
+Storm (General),2022_apr_storm3,2022/4/15,2022/4/18,"Alabama, Arkansas, Florida, Mississippi, Oklahoma, Texas",,945392
+Storm (General),2022_apr_storm4,2022/4/21,2022/4/24,"Kansas, Minnesota, Missouri, Montana, Nebraska, North Carolina, North Dakota, South Dakota, Texas, Virginia",130,668849
+Tornado,2022_apr_storm5,2022/4/26,2022/5/5,"Kansas, Oklahoma, Texas",,624902
+Tornado,2022_apr_storm1,2022/4/4,2022/4/7,"Alabama, Florida, Georgia, Mississippi, South Carolina, Texas",,3429995
+Derecho,2022_may_storm2,2022/5/19,2022/5/26,"Illinois, Kentucky, Michigan, Minnesota, Missouri, Wisconsin",,2679683
+Storm (General),2022_may_storm1,2022/5/5,2022/5/11,"Minnesota, North Carolina, Ohio, Oklahoma, Pennsylvania, Texas, Virginia, West Virginia, Wisconsin",,1286248
+Tropical cyclone,Ian,2022/9/28,2022/10/2,"Florida, North Carolina",240,107187331
+Tornado,2023_jan_storm1,2023/1/12,2023/1/12,"Alabama, Georgia",145,792711
+Severe weather,2023_dec_storm2,2023/12/16,2023/12/19,"Maine, Massachusetts, New Jersey, New York, Pennsylvania, South Carolina",,1338344
+Severe weather,2023_dec_storm1,2023/12/9,2023/12/11,"Connecticut, Louisiana",,102950
+Storm (General),2023_mar_storm1,2023/3/1,2023/3/3,"Alabama, Arkansas, Indiana, Kentucky, Louisiana, Mississippi, Ohio, Oklahoma, Tennessee, Texas",,6176971
+Tornado,2023_mar_storm3,2023/3/22,2023/3/27,"Alabama, Georgia, Mississippi, Tennessee",,2985536
+Tornado,2023_mar_storm4,2023/3/30,2023/4/3,"Alabama, Arkansas, Delaware, Illinois, Indiana, Iowa, Kansas, Kentucky, Mississippi, Missouri, Ohio, Oklahoma, Pennsylvania, Tennessee",,5662223
+Severe weather,2023_mar_storm2,2023/3/9,2023/3/12,"California, Nevada",,262521
+Storm (General),2023_apr_storm2,2023/4/15,2023/4/22,"Arkansas, Florida, Illinois, Iowa, Kansas, Louisiana, Missouri, Nebraska, Oklahoma, Texas",,3037011
+Storm (General),2023_apr_storm3,2023/4/23,2023/4/27,"Florida, Georgia, Oklahoma, Texas",,1338344
+Tornado,2023_apr_storm1,2023/4/3,2023/4/7,"Illinois, Indiana, Iowa, Kentucky, Michigan, Missouri, Ohio",,2985536
+Storm (General),2023_may_storm1,2023/5/6,2023/5/8,"Colorado, Illinois, Indiana, Iowa, Kansas, Kentucky, Missouri, Nebraska, South Carolina, Tennessee, Texas",,2264889
+Tornado,2023_jun_storm1,2023/6/10,2023/6/17,"Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, South Carolina, Tennessee, Texas",,4220930
+Storm (General),2023_jun_storm2,2023/6/15,2023/6/22,"Arkansas, Colorado, Kansas, Louisiana, Michigan, Mississippi, Nebraska, Ohio, Oklahoma, Texas, Wyoming",,3912081
+Storm (General),2023_jun_storm3,2023/6/23,2023/6/29,"Arkansas, Colorado, Indiana, Kentucky, Minnesota, Montana, Nebraska, Ohio, Oklahoma, South Dakota, Tennessee, Wyoming",,5456324
+Tropical cyclone,Idalia,2023/8/28,2023/8/29,"Florida, Georgia, North Carolina, South Carolina",150,3603233
+Severe weather,2023_sep_storm1,2023/9/21,2023/9/27,"Kentucky, Missouri, Nebraska, Oklahoma, Texas",,1647192
+Severe weather,2024_jan_storm1,2024/1/8,2024/1/10,"Alabama, Colorado, Florida, Iowa, Kansas, Nebraska, New Mexico, South Carolina, South Dakota",,2850000
+Blizzard/Winter storm,2024_jan_storm2,2024/1/9,2024/1/22,"Arkansas, Illinois, Kentucky, Louisiana, Maine, Massachusetts, Mississippi, New Jersey, New York, Oregon, Pennsylvania, Tennessee, Washington, Wisconsin",,3800000
+Tropical cyclone,Milton,2024/10/9,2024/10/10,Florida,205,38000000
+Severe weather,2024_feb_storm1,2024/2/4,2024/2/8,California,160,1100000
+Severe weather,2024_feb_storm2,2024/2/8,2024/2/13,"Colorado, Connecticut, Massachusetts, Mississippi, New Hampshire, New Jersey, New Mexico, New York, Oklahoma, Pennsylvania, Texas, Wisconsin",,1300000
+Tornado,2024_mar_storm1,2024/3/12,2024/3/16,"Arkansas, Illinois, Indiana, Kansas, Kentucky, Ohio, Oklahoma",,5900000
+Severe weather,2024_mar_storm2,2024/3/29,2024/4/5,"California, Georgia, Kentucky, Maine, Massachusetts, New Hampshire, New Jersey, New York, Ohio, Oklahoma, Pennsylvania, Tennessee, Virginia, West Virginia",,2650000
+Tornado,2024_apr_storm1,2024/4/25,2024/5/8,"Iowa, Kansas, Michigan, Missouri, Nebraska, Oklahoma, Tennessee, Texas",,1725000
+Severe weather,2024_may_storm2,2024/5/16,2024/5/22,"Illinois, Iowa, Kansas, Missouri, Nebraska, Oklahoma, Texas, Wisconsin",160,4800000
+Severe weather,2024_may_storm3,2024/5/23,2024/5/30,"Alabama, Arkansas, Colorado, Illinois, Kentucky, Missouri, Oklahoma, Texas",,3500000
+Severe weather,2024_may_storm4,2024/5/30,2024/6/5,"Colorado, Texas",,3200000
+Tornado,2024_may_storm1,2024/5/6,2024/5/8,"Alabama, Arkansas, Florida, Georgia, Indiana, Kansas, Kentucky, Michigan, Nebraska, North Carolina, Ohio, Oklahoma, South Carolina, Tennessee",,6600000
+Storm (General),2024_jul_storm1,2024/7/13,2024/7/17,"Arkansas, Illinois, Indiana, Minnesota, Mississippi, Missouri, Montana, New Jersey, New York, Ohio, Pennsylvania, South Dakota, Wisconsin",,2400000
+Tropical cyclone,Beryl,2024/7/8,2024/7/9,"Louisiana, Texas",130,7200000
+Tropical cyclone,Debby_2,2024/8/5,2024/8/6,"Florida, Georgia, North Carolina, Pennsylvania, South Carolina, Virginia",120,2500000
+Tropical cyclone,Francine,2024/9/11,2024/9/12,"Alabama, Florida, Louisiana, Mississippi",148,1300000
+Tropical cyclone,Helene,2024/9/25,2024/9/28,"Florida, Georgia, Indiana, Kentucky, North Carolina, South Carolina, Tennessee, Virginia",225,56000000
+Blizzard/Winter storm,2025_jan_storm1,2025/1/5,2025/1/23,"Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Kentucky, Louisiana, Maryland, Missouri, New Jersey, North Carolina, South Carolina, Texas, Virginia, Washington",,50000
+Severe weather,2025_dec_storm1,2025/12/8,2025/12/18,"Colorado, Idaho, Montana, Oregon, Washington, Wyoming",,200000
+Severe weather,2025_feb_storm1,2025/2/13,2025/2/21,"Georgia, Kentucky, Maryland, Pennsylvania, Tennessee, Virginia",,1980000
+Tornado,2025_mar_storm2,2025/3/14,2025/3/17,"Alabama, Arkansas, Kansas, Mississippi, Missouri, North Carolina, Oklahoma, Texas",,9400000
+Severe weather,2025_mar_storm1,2025/3/3,2025/3/7,"Alabama, Iowa, Louisiana, Mississippi, Nebraska, New Mexico, Oklahoma, Tennessee, Texas",,2350000
+Severe weather,2025_apr_storm2,2025/4/17,2025/4/23,"Arkansas, Illinois, Iowa, Louisiana, Maryland, Missouri, Nebraska, Oklahoma, Pennsylvania, Texas, Virginia, Washington, West Virginia, Wisconsin",,2500000
+Severe weather,2025_apr_storm1,2025/4/2,2025/4/7,"Arkansas, Georgia, Indiana, Kentucky, Mississippi, Missouri, Tennessee",,4550000
+Tornado,2025_may_storm1,2025/5/14,2025/5/17,"Kentucky, Missouri, Virginia",,5200000
+Severe weather,2025_jun_storm1,2025/6/14,2025/6/15,"Ohio, Virginia, West Virginia",,2500000
+Tropical cyclone,Chantal,2025/7/4,2025/7/7,North Carolina,,400000
+Tropical cyclone,2025_aug_storm1,2025/8/15,2025/8/16,"New Jersey, North Carolina",,25000
