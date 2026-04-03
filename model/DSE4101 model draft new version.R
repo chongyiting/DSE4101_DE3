@@ -642,17 +642,17 @@ model <- function(data, outcome, predictors) {
     multisplit_feature_table <- data.frame(
       Model = "Multi-split LASSO + MLE",
       Feature = multisplit.final.vars,
-      Score = results$VIM[match(multisplit.final.vars, results$Variables)], #VIM score
+      VIM = results$VIM[match(multisplit.final.vars, results$Variables)], #VIM score
       pValue = results$pValue[match(multisplit.final.vars, results$Variables)],
       stringsAsFactors = FALSE
     ) %>%
-      arrange(desc(Score), pValue) %>%
+      arrange(desc(VIM), pValue) %>%
       mutate(MultiSplit_Rank = row_number()) #arrange by rank desc, assign rank
   } else {
     multisplit_feature_table <- data.frame(
       Model = character(0),
       Feature = character(0),
-      Score = numeric(0),
+      VIM = numeric(0),
       pValue = numeric(0),
       MultiSplit_Rank = integer(0), #added rank number
       stringsAsFactors = FALSE
