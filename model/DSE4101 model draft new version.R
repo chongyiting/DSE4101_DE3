@@ -32,7 +32,8 @@ for (pkg in packages) {
   library(pkg, character.only = TRUE)
 }
 library(SHAPforxgboost)
-
+library(foreach)
+registerDoSEQ()
 
 # ----------------------------
 # C. Methodology 
@@ -85,7 +86,7 @@ final_data <- final_data %>%
   drop_na()
 
 #can adjust later for different outcomes
-outcome= "rec_1d"
+#outcome= "rec_1d"
 
 #outcome ="rec_7d"
 #outcome="rec_30d"
@@ -828,21 +829,21 @@ save_model_results <- function(out, outcome, save_dir = "../results") {
 
 ## VIII. Run once
 
-out <- model(full_df, outcome, predictors) 
+#out <- model(full_df, outcome, predictors) 
 #full_df is cleaner than final_data with the date type conversion, but not much diff
 
-out$multisplit_results
-out$multisplit.final.vars
-out$rf_selected_vars
-out$xgb_selected_vars
-out$auc_table
-out$multisplit_feature_table
-out$shap_rf_df
-out$shap_xgb_df
-out$feature_table
-out$roc_plot
+#out$multisplit_results
+#out$multisplit.final.vars
+#out$rf_selected_vars
+#out$xgb_selected_vars
+#out$auc_table
+#out$multisplit_feature_table
+#out$shap_rf_df
+#out$shap_xgb_df
+#out$feature_table
+#out$roc_plot
 
-save_model_results(out, outcome)
+#save_model_results(out, outcome)
 
 
 
