@@ -1,0 +1,6 @@
+"Model","Feature","VIM","pValue","MultiSplit_Rank"
+"Multi-split LASSO + MLE","end_month",1,3.44543335439314e-13,1
+"Multi-split LASSO + MLE","GDPCA",1,2.22914938044205e-07,2
+"Multi-split LASSO + MLE","regionWest",1,3.65618226340751e-06,3
+"Multi-split LASSO + MLE","regionMidwest",1,0.000148025635795296,4
+"Multi-split LASSO + MLE","duration",0.9,0.0217295585730088,5

@@ -1,0 +1,16 @@
+"Model","Feature","XGB_SHAP","XGB_SHAP_Rank"
+"XGBoost","duration",0.808214122137444,1
+"XGBoost","start_month",0.703113468016346,2
+"XGBoost","regionSouth",0.594188407731647,3
+"XGBoost","end_month",0.463186850527532,4
+"XGBoost","inflation",0.374892359343021,5
+"XGBoost","total_damage_adjusted",0.35286919744754,6
+"XGBoost","regionWest",0.268237770483083,7
+"XGBoost","pre_shock_price",0.208916307981125,8
+"XGBoost","Liquidity.ratio",0.205463355358298,9
+"XGBoost","GDPCA",0.191579270108802,10
+"XGBoost","Net.inventory",0.191228549237173,11
+"XGBoost","regionMidwest",0.162595956540529,12
+"XGBoost","Number.of.employees",0.152702071524527,13
+"XGBoost","disaster_year",0.0907694869952835,14
+"XGBoost","regionNortheast",0.072650280307114,15

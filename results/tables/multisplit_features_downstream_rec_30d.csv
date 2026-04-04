@@ -1,0 +1,10 @@
+"Model","Feature","VIM","pValue","MultiSplit_Rank"
+"Multi-split LASSO + MLE","inflation",1,1.5244526530185e-22,1
+"Multi-split LASSO + MLE","disaster_year",1,2.02448158885685e-09,2
+"Multi-split LASSO + MLE","end_month",1,2.0387217026238e-08,3
+"Multi-split LASSO + MLE","EBITDA.margin",1,2.80020319288508e-07,4
+"Multi-split LASSO + MLE","pre_shock_price",1,0.000228782813451244,5
+"Multi-split LASSO + MLE","regionMidwest",1,0.000515488928571829,6
+"Multi-split LASSO + MLE","total_damage_adjusted",1,0.000949684777340233,7
+"Multi-split LASSO + MLE","duration",1,0.00451584776127057,8
+"Multi-split LASSO + MLE","start_month",0.9,2.39254111960604e-05,9

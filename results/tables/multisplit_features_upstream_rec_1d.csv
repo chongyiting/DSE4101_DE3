@@ -1,0 +1,5 @@
+"Model","Feature","VIM","pValue","MultiSplit_Rank"
+"Multi-split LASSO + MLE","inflation",1,1.8002683714303e-12,1
+"Multi-split LASSO + MLE","disaster_year",1,3.49192830995489e-07,2
+"Multi-split LASSO + MLE","total_damage_adjusted",1,0.000411192174109916,3
+"Multi-split LASSO + MLE","start_month",0.9,2.18154075319972e-10,4

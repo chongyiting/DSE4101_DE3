@@ -1,0 +1,17 @@
+"Model","Feature","VIM","pValue","MultiSplit_Rank"
+"Multi-split LASSO + MLE","inflation",1,1.18700802248837e-130,1
+"Multi-split LASSO + MLE","disaster_year",1,1.21970998419492e-94,2
+"Multi-split LASSO + MLE","operating_income_loss",1,4.41394113623742e-22,3
+"Multi-split LASSO + MLE","Net.Income",1,4.67006676780604e-18,4
+"Multi-split LASSO + MLE","regionNortheast",1,9.32293450067906e-15,5
+"Multi-split LASSO + MLE","regionWest",1,3.37566388745836e-11,6
+"Multi-split LASSO + MLE","start_month",1,1.24063760495774e-08,7
+"Multi-split LASSO + MLE","total_damage_adjusted",1,3.61850986562619e-07,8
+"Multi-split LASSO + MLE","cash_and_equivalents",1,7.72672924080344e-07,9
+"Multi-split LASSO + MLE","Liquidity.ratio",1,1.28328777749725e-06,10
+"Multi-split LASSO + MLE","Total.cash...short.term.investments",1,2.96146840157717e-06,11
+"Multi-split LASSO + MLE","pre_shock_price",1,6.963618246694e-06,12
+"Multi-split LASSO + MLE","duration",1,0.000352245002699134,13
+"Multi-split LASSO + MLE","Net.debt",1,0.00076309077181724,14
+"Multi-split LASSO + MLE","regionMidwest",1,0.000834700895700243,15
+"Multi-split LASSO + MLE","EBITDA.margin",1,0.00157369316257644,16

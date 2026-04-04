@@ -1,0 +1,21 @@
+"Model","Feature","RF_SHAP","RF_SHAP_Rank"
+"Random Forest","inflation",0.099936179958858,1
+"Random Forest","regionSouth",0.0582802130516479,2
+"Random Forest","GDPCA",0.0500987122057816,3
+"Random Forest","regionMidwest",0.047728533890284,4
+"Random Forest","disaster_year",0.0461481204694443,5
+"Random Forest","total_damage_adjusted",0.0262571932151261,6
+"Random Forest","end_month",0.026010606974949,7
+"Random Forest","start_month",0.0230158664382034,8
+"Random Forest","duration",0.021956024292367,9
+"Random Forest","cash_and_equivalents",0.0196445408097284,10
+"Random Forest","revenue",0.018171590899357,11
+"Random Forest","Net.debt",0.0166985828863993,12
+"Random Forest","assets",0.0163810286479705,13
+"Random Forest","pre_shock_price",0.0161818984666554,14
+"Random Forest","EBITDA.margin",0.0159066968702002,15
+"Random Forest","Net.inventory",0.0150597259913784,16
+"Random Forest","Liquidity.ratio",0.0122877956563802,17
+"Random Forest","assets_current",0.0106610179967625,18
+"Random Forest","stockholders_equity",0.0104399417249369,19
+"Random Forest","Number.of.employees",0.00934130518143971,20
