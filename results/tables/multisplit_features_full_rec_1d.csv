@@ -1,0 +1,5 @@
+"Model","Feature","VIM","pValue","MultiSplit_Rank"
+"Multi-split LASSO + MLE","inflation",1,2.35366987080644e-15,1
+"Multi-split LASSO + MLE","end_month",1,2.85744188493325e-14,2
+"Multi-split LASSO + MLE","regionMidwest",1,9.29136340685225e-06,3
+"Multi-split LASSO + MLE","total_damage_adjusted",1,7.68658352564791e-05,4

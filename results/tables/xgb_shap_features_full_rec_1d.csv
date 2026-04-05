@@ -1,0 +1,6 @@
+"Model","Feature","XGB_SHAP","XGB_SHAP_Rank"
+"XGBoost","duration",0.799346600682266,1
+"XGBoost","end_month",0.622627510028695,2
+"XGBoost","regionSouth",0.527969648657917,3
+"XGBoost","start_month",0.526971910527412,4
+"XGBoost","total_damage_adjusted",0.449825270376804,5

@@ -851,9 +851,9 @@ save_model_results <- function(out, outcome, save_dir = "../results") {
 outcomes <- c("rec_1d", "rec_7d", "rec_30d", "rec_180d")
 
 dataset_list <- list(
-  #full = full_df,  
-  upstream = upstream_df,
-  downstream = downstream_df
+  full = full_df
+  #upstream = upstream_df,
+  #downstream = downstream_df
 )
 
 all_results <- list()

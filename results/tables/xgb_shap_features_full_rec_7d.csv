@@ -1,0 +1,11 @@
+"Model","Feature","XGB_SHAP","XGB_SHAP_Rank"
+"XGBoost","duration",1.04089258322989,1
+"XGBoost","start_month",0.738045971451471,2
+"XGBoost","regionSouth",0.730930186958739,3
+"XGBoost","end_month",0.700157402837284,4
+"XGBoost","inflation",0.40922123756909,5
+"XGBoost","total_damage_adjusted",0.406356461497506,6
+"XGBoost","regionMidwest",0.261460508351265,7
+"XGBoost","GDPCA",0.246361148465019,8
+"XGBoost","regionWest",0.207254927783548,9
+"XGBoost","disaster_year",0.0945671076206573,10

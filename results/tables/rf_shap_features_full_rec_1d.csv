@@ -1,0 +1,11 @@
+"Model","Feature","RF_SHAP","RF_SHAP_Rank"
+"Random Forest","end_month",0.0797026378080823,1
+"Random Forest","start_month",0.0746768311725041,2
+"Random Forest","duration",0.068027672521199,3
+"Random Forest","regionSouth",0.0635675758638551,4
+"Random Forest","total_damage_adjusted",0.0576878863323813,5
+"Random Forest","EBITDA.margin",0.0205809465847232,6
+"Random Forest","Net.debt",0.0203757015723383,7
+"Random Forest","pre_shock_price",0.0203319510194507,8
+"Random Forest","Net.inventory",0.0192631626004882,9
+"Random Forest","Liquidity.ratio",0.0188942861322354,10
